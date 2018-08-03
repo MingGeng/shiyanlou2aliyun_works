@@ -1,3 +1,4 @@
 {
   "registry-mirrors": ["https://n6syp70m.mirror.aliyuncs.com"]
 }
+## put me into /etc/docker and restart docker
